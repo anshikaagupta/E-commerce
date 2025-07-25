@@ -1,7 +1,7 @@
 # React-e-commerce
 This is a customizable e-commerce frontend designed to make it easy for ***student developers*** to build on top of. <br> Built using Vite, The template features a clean and modern design, with a clear and consistent folder structure that makes it easy to navigate the project.
 <br>
-In addition to the frontend there's an even simpler ***backend-template*** to handle all your requests ([READ MORE](https://github.com/Mini-Sylar/react-e-commerce-backend))
+
 
 # Getting Started
 - Clone this repo
@@ -31,7 +31,7 @@ In addition to the frontend there's an even simpler ***backend-template*** to ha
 
 <hr>
 
-**To see a stripped down version with no JWT see [NO JWT](https://github.com/Mini-Sylar/react-e-commerce/tree/main)**
+
 
 ## Things to note
 - When running on localhost vite uses ```.env.development``` to connect to your backend (which must be running, more info here 👉 [React E-Commerce-Backend With JWT](https://github.com/Mini-Sylar/react-e-commerce/tree/main-jwt)) . Update it when needed
@@ -40,8 +40,7 @@ In addition to the frontend there's an even simpler ***backend-template*** to ha
 # Contributions
 Contributions are always welcome,
 
-# Licence 
-This template is released under the MIT License. Feel free to use it for personal or commercial projects. 
+
 <br> You may credit me as well 😊
 
 
